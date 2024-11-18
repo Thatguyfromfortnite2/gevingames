@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unblocked Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Unblocked Games</h1>
+        <p>Play fun and educational games!</p>
+    </header>
+    <main>
+        <section>
+            <h2>Featured Games</h2>
+            <ul>
+                <li><a href="https://www.example.com/game1" target="_blank">Game 1</a></li>
+                <li><a href="https://www.example.com/game2" target="_blank">Game 2</a></li>
+                <li><a href="https://www.example.com/game3" target="_blank">Game 3</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Unblocked Games</p>
+    </footer>
+</body>
+</html>
